@@ -1,4 +1,4 @@
-package com.bpal.d1;
+package com.bpal.day1;
 
 public class Count {
 	String name;

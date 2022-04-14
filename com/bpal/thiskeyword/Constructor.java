@@ -3,9 +3,10 @@ package com.bpal.thiskeyword;
 public class Constructor {
 
     public static void main(String[] args) {
-        Hello hello = new Hello();
+        new Hello();
         System.out.println("************************");
-        Demo demo = new Demo(101);
+        new Demo(101);
+     
     }
     
 }
