@@ -1,4 +1,4 @@
-package com.bpal.controlstatement;
+package controlstatement;
 
 public class Ifelse {
 
